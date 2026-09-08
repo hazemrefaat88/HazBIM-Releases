@@ -1,5 +1,17 @@
 {
-  "latest_version": "2.0.0.0",
-  "update_message": "HazBIM v2.0.0 is available! Click below to download the latest update.",
-  "update_url": "https://github.com/hazemrefaat88/HazBIM-Releases/releases/download/v2.0.0/HazBIM_Installer.exe"
+  "latest_version": "2.1.0",
+  "channel": "stable",
+  "update_message": "HazBIM v2.1.0 is available. See the release notes for changes.",
+  "update_url": "https://github.com/hazemrefaat88/HazBIM-Releases/releases/download/v2.1.0/HazBIM_Installer_v2.1.0.exe",
+  "release_notes_url": "https://github.com/hazemrefaat88/HazBIM-Releases/releases/tag/v2.1.0",
+  "supported_revit_years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ],
+  "sha256": "da9c53a47a7d1bc8a274924c611c597815a8d45e83e6687a771e429d02d70e3c"
 }
