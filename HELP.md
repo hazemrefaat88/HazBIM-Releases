@@ -1,6 +1,6 @@
 # HazBIM Help and Quick Start
 
-HazBIM is a productivity suite for Autodesk Revit. It adds a dedicated **HazBIM** ribbon tab. Hover over any HazBIM ribbon command and press **F1** to open the relevant section of this guide.
+HazBIM is a productivity suite for Autodesk Revit. It adds a dedicated **HazBIM** ribbon tab. Hover over any HazBIM ribbon command and press **F1** to open the relevant section of this guide. You can also press **F1** while a HazBIM tool, result, sign-in, About, or update window is active.
 
 ## Getting started
 
