@@ -7,7 +7,7 @@ HazBIM is a productivity suite for Autodesk Revit. It adds a dedicated **HazBIM*
 1. Install the HazBIM package for your Revit version and restart Revit.
 2. Open the **HazBIM** ribbon tab.
 3. Select a tool. On first use, enter the HazBIM account credentials supplied by the developer.
-4. To request a seven-day trial account or purchase a license, email [hazem.r.elhusieny@gmail.com](mailto:hazem.r.elhusieny@gmail.com).
+4. To request a seven-day trial account or purchase a license, email [hazem.r.elhusieny@gmail.com](mailto:hazem.r.elhusieny@gmail.com) or contact [WhatsApp +20 100 217 0742](https://wa.me/201002170742).
 
 HazBIM requires an internet connection for the initial sign-in and periodic license verification. After a successful online sign-in, eligible accounts can use the encrypted offline license cache for up to five days.
 
