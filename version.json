@@ -1,7 +1,7 @@
 {
   "latest_version": "2.5.2",
   "allowed_versions": [
-    "2.5.3"
+    "2.5.2"
   ],
   "channel": "stable",
   "update_message": "HazBIM v2.5.2 is available. See the release notes for changes.",
