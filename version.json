@@ -1,14 +1,15 @@
 {
-  "latest_version": "2.5.3",
+  "latest_version": "2.5.4",
   "allowed_versions": [
     "2.5.2",
     "2.5.3",
     "2.5.4"
+    
   ],
   "channel": "stable",
-  "update_message": "HazBIM v2.5.3 is available. See the release notes for changes.",
-  "update_url": "https://github.com/hazemrefaat88/HazBIM-Releases/releases/download/v2.5.3/HazBIM_Installer_v2.5.3.exe",
-  "release_notes_url": "https://github.com/hazemrefaat88/HazBIM-Releases/releases/tag/v2.5.3",
+  "update_message": "HazBIM v2.5.4 is available. See the release notes for changes.",
+  "update_url": "https://github.com/hazemrefaat88/HazBIM-Releases/releases/download/v2.5.4/HazBIM_Installer_v2.5.4.exe",
+  "release_notes_url": "https://github.com/hazemrefaat88/HazBIM-Releases/releases/tag/v2.5.4",
   "supported_revit_years": [
     2021,
     2022,
@@ -18,5 +19,5 @@
     2026,
     2027
   ],
-  "sha256": "cc400efadc48b7b8f79914a6b2fd59d0aef664c3c5ac7e5b07c7990a5bb8a255"
+  "sha256": "a4d4684d3c54c5c7c0f23147ea856090dd104cb7a155b9fc253b6fc1aa8a626e"
 }
